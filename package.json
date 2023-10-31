@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "start": "node ./src/server.js",
+        "debug": "nodemon ./src/server.js"
+    },
+    "dependencies":{"express":"^4.18.2"}}
+

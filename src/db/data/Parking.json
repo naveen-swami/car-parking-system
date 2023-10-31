@@ -1,0 +1,10 @@
+{
+    "SUV": {
+        "totalSlot": 40,
+        "currentParking": []
+    },
+    "HATCHBACK": {
+        "totalSlot": 40,
+        "currentParking": []
+    }
+}
